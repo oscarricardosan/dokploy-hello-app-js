@@ -1,0 +1,12 @@
+{
+  "name": "hola-mundo-dokploy",
+  "version": "1.0.0",
+  "description": "Aplicación Hola Mundo para Dokploy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
